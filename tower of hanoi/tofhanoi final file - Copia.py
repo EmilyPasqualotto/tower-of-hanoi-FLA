@@ -66,10 +66,9 @@ while (t3)!=[3,2,1]:
         else:
             print('think and try again :p')
 
-    print('')
-
 #depois de sair do loop, o programa finaliza e mostra--#
 
+print (' ')
 print ('▽▽▽▽▽▽▽▽▽▽▽▽▽▽▽▽')
 print ('        U       W I N ')
 print ('△△△△△△△△△△△△△△△△')
