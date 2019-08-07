@@ -24,8 +24,7 @@ while (t3)!=[3,2,1]:
     inp=inp.split('-')
     house1=inp[0]
     house2=inp[1]
-    
-    
+        
     if (house1)==('1'):
         a=t1[(len(t1)-1)]
         t1.pop(len(t1)-1)
