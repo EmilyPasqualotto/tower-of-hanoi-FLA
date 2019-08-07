@@ -37,8 +37,8 @@ while (t3)!=[3,2,1]:
            elif (house2)==('3'):
                t3.append((a))
                print_torres()
-           else:
-               print('think and try again')
+        else:
+           print('think and try again')
 
     elif (house1)==('2'):
         if (t2!=[]):
