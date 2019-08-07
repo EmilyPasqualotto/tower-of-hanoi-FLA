@@ -29,15 +29,15 @@ while (t3)!=[3,2,1]:
     
     if (house1)==('1'):
        if (t1!=[]):
-           a=t1[(len(t1)-1)]
-           t1.pop(len(t1)-1)
-           if (house2)==('2'):
-               t2.append((a))
-               print_torres()
-           elif (house2)==('3'):
+          a=t1[(len(t1)-1)]
+          t1.pop(len(t1)-1)
+          if (house2)==('2'):
+             t2.append((a))
+             print_torres()
+          elif (house2)==('3'):
                t3.append((a))
                print_torres()
-        else:
+       else:
            print('think and try again')
 
     elif (house1)==('2'):
